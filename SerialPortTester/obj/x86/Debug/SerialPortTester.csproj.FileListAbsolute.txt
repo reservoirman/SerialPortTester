@@ -1,0 +1,4 @@
+c:\users\tguh\documents\visual studio 2010\Projects\SerialPortTester\SerialPortTester\bin\Debug\SerialPortTester.exe
+c:\users\tguh\documents\visual studio 2010\Projects\SerialPortTester\SerialPortTester\bin\Debug\SerialPortTester.pdb
+c:\users\tguh\documents\visual studio 2010\Projects\SerialPortTester\SerialPortTester\obj\x86\Debug\SerialPortTester.exe
+c:\users\tguh\documents\visual studio 2010\Projects\SerialPortTester\SerialPortTester\obj\x86\Debug\SerialPortTester.pdb
